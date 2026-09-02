@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://shikra-energy.ai.studio/",
+      "permanent": true
+    }
+  ]
+}
